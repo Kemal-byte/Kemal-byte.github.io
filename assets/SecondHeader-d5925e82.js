@@ -1,0 +1,1 @@
+import{j as t,m as n}from"./index-a526dbf9.js";const o=i=>{const a={initial:{opacity:0,y:20},animate:{opacity:1,y:0,transition:{duration:1}}};return t(n.h2,{viewport:{once:!0},className:i.class?i.class:"",variants:a,initial:"initial",whileInView:"animate",children:i.children})};export{o as S};
